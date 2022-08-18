@@ -5,17 +5,17 @@ Primary purpose         : No levels included
 ===========================================================================
 Title                   : Chocolate Doomslayers' Deathmatch
 Filename                : deathmatch.lmp, dm1.lmp, Doom_Lagmatch.lmp,
-                          owlmans_cool_deathmatch_game.lmp
+                          owlys_cool_deathmatch_game.lmp
 Release date            : 2018-11-25 (ISO 8601)
 Author                  : Various
-Email Address           : [redacted]
+Email Address           : owlgal69@protonmail.com
 Misc. Author Info       : deathmatch.lmp was recorded by Mortrixs.
 						  
 						  dm1.lmp was recorded by Technochips.
 						  
 						  while Doom_Lagmatch.lmp was made by Its_Sergio,
 						  they were also kind enough to make
-						  owlmans_cool_deathmatch_game.lmp, as Owly is
+						  owlys_cool_deathmatch_game.lmp, as Owly is
 						  a moron, and didn't record her own demo.
 						  
 						  However, Owly repented her sins by making
@@ -113,5 +113,4 @@ Web sites: https://owlman.neocities.org/doom/doom_dm_2018_11_25.zip
 Web sites: https://owlman.neocities.org/owlgames/demos/doom_dm_2018_11_25
 Git: https://github.com/DynTylluan/demos/tree/main/doom_dm_2018_11_25
 Git: https://notabug.org/DynTylluan/demos/tree/main/doom_dm_2018_11_25
-
 ```

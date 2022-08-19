@@ -8,3 +8,4 @@ This is my personal collection of Doom demos that are somehow related to me in s
 | [900 Deep in the Dead](/900deep)      |  900deep.wad    | Cass «Owly» Python     | 2022-07-12     | Owly plays Jayextee's Doom I WAD     |
 | [Chocolate Doomslayers' Deathmatch](/doom_dm_2018_11_25)      | doom.wad     | Its_Sergio, Mortrixs, Owly, Technochips     | 2018-11-25     | Fans of the Doom port, Chocolate Doom, played some deathmatch, with a lot of lag!     |
 | [Owly's E2M4 Speedrun](/e2m4_20220818)      | doom.wad     | Owly     | 2022-08-18     | Cass speedruns E2M4 with the time of 0:48     |
+| [Owly's E2M4 Speedrun](/owlman_plays_doom_very_drunk_2019_01_01)      | doom.wad     | Owly     | 2019-01-01     | Cass plays Doom's E1 maps very drunk     |
